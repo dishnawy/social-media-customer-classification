@@ -1,5 +1,5 @@
 # Paint Shop Challenge
-> Using Machine Learning Random Forest classification model to classify customers based on purchase instance after viewing an ads, taking age and estimated salary as features. It is built using sklearn, panda and numpy.
+> Using Machine Learning Random Forest classification model to classify customers based on purchase instance after viewing an ads, taking age and estimated salary as features. It is built using sklearn, pandas and numpy.
 
 
 ### To run the code:
