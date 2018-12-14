@@ -1,4 +1,4 @@
-# Paint Shop Challenge
+# Social media customer classification
 > Using Machine Learning Random Forest classification model to classify customers based on purchase instance after viewing an ads, taking age and estimated salary as features. It is built using sklearn, pandas and numpy.
 
 
